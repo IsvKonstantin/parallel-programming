@@ -1,0 +1,8 @@
+*.iml
+*.db
+.git/
+.teamcity/
+.idea/
+.gradle/
+build/
+target/
